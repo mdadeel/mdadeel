@@ -15,7 +15,7 @@
 
 <div align="left">
   <p>
-    I'm passionate about blending technology with emotion. From building minimal and aesthetic websites to writing mysterious, story-driven songs — I bring creativity to every line of code and lyric. Currently exploring Python, AI, and the art of storytelling through design and sound.
+    I'm passionate about blending technology with emotion. From building minimal and aesthetic websites to writing mysterious, story-driven songs, I bring creativity to every line of code and lyric. Currently exploring Python, AI, and the art of storytelling through design and sound.
   </p>
 </div>
 
