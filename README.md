@@ -1,65 +1,64 @@
-<h2 align="left">Hi 👋! I'm Adeel, a Creative Developer, Visual Storyteller & Tech Educator from Bangladesh</h2>
+<h2 align="left">Hi 👋 I'm Adeel</h2>
+<p><strong>Creative Developer | Visual Storyteller | Tech Educator</strong><br>
+Based in <strong>Bangladesh</strong>, I build tools and tutorials that make tech feel fun, accessible, and alive.</p>
 
-###
+<hr />
 
+<h3>🚀 What I'm Working On</h3>
+<ul>
+  <li><strong>Code Moft</strong> – A creative coding hub blending education, design, and community vibes</li>
+  <li><strong>React App Setup Tool</strong> – Fast, clean, beginner-friendly project scaffolding</li>
+  <li><strong>Zorin OS Tweaks</strong> – Optimizing performance, visuals, and developer tools for mid-range hardware</li>
+  <li><strong>System Scripts</strong> – Automating swap, DNS, shell, and font fixes for smoother workflows</li>
+</ul>
+
+<hr />
+
+<h3>🎯 My Focus</h3>
+<ul>
+  <li>Making Linux beautiful and responsive</li>
+  <li>Designing neon-themed visuals with real coder aesthetics</li>
+  <li>Writing guides that turn complexity into clarity</li>
+  <li>Exploring AI-powered CLI tools and meme-driven UX</li>
+</ul>
+
+<hr />
+
+<h3>🛠️ Tech Stack</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+</div>
+
+<hr />
+
+<h3>📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdadeel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdadeel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdadeel&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdadeel&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
 </div>
 
-###
+<hr />
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/190/190422.gif"  />
-
-###
-
-<div align="left">
-  <p>
-    I build tools, tutorials, and branding assets that make tech feel fun, accessible, and alive. Whether it's scripting system fixes, designing neon-themed visuals, or crafting beginner-friendly guides, I love turning complexity into clarity.
-  </p>
-  <p>
-    🚀 Currently launching <strong>Code Moft</strong> a creative coding hub blending education, design, and community vibes. Expect real coder aesthetics, meme-powered UX, and tutorials that speak your language.
-  </p>
-</div>
-
-###
-
-<h3 align="left">🛠️ Tech Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
-</div>
-
-###
-
-<h3 align="left">📫 Connect with Me</h3>
-
+<h3>📫 Let's Connect</h3>
 <div align="left">
   <a href="https://www.instagram.com/shahnawas.adeel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
   <a href="https://www.facebook.com/badshahnawas.adeel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/shahnawasadee1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="mailto:shahnawasadeel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://github.com/mdadeel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo"  />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
 </div>
-
-###
