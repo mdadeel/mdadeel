@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adeel and I'm a Creative Developer & Storyteller from Bangladesh</h2>
+<h2 align="left">Hi 👋! I'm Adeel — a Creative Developer, Visual Storyteller & Tech Educator from Bangladesh</h2>
 
 ###
 
@@ -15,7 +15,10 @@
 
 <div align="left">
   <p>
-    I'm passionate about blending technology with emotion. From building minimal and aesthetic websites to writing mysterious, story-driven songs, I bring creativity to every line of code and lyric. Currently exploring Python, AI, and the art of storytelling through design and sound.
+    I build tools, tutorials, and branding assets that make tech feel fun, accessible, and alive. Whether it's scripting system fixes, designing neon-themed visuals, or crafting beginner-friendly guides, I love turning complexity into clarity. I'm currently launching <strong>Code Moft</strong> — a creative coding hub blending education, design, and community vibes.
+  </p>
+  <p>
+    My workflow is optimized for mid-range hardware, and I thrive on making Linux (especially Zorin OS) fast, responsive, and beautiful. I also explore AI-powered CLI tools, React setups, and meme-driven UX to keep things playful and practical.
   </p>
 </div>
 
@@ -29,6 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
 </div>
 
 ###
