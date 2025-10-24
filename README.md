@@ -24,25 +24,6 @@
 
 ###
 
-<h3 align="left">🧠 Featured Project: Code Moft</h3>
-
-<div align="center">
-  <img src="https://your-image-url.com/code-moft-banner.png" alt="Code Moft Banner" width="100%" />
-</div>
-
-<p align="center">
-  <em>Code Moft is where creative coding meets clarity. Tutorials, tools, and tech vibes — all in one place.</em>
-</p>
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=your-video-id" target="_blank">
-    <img src="https://img.youtube.com/vi/your-video-id/0.jpg" alt="Code Moft Video" width="480" />
-    <p>🎬 Watch: React App Setup Tool — Fast, Clean, Beginner-Friendly</p>
-  </a>
-</div>
-
-###
-
 <h3 align="left">🛠️ Tech Stack</h3>
 
 <div align="left">
