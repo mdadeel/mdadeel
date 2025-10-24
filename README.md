@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Adeel — a Creative Developer, Visual Storyteller & Tech Educator from Bangladesh</h2>
+<h2 align="left">Hi 👋! I'm Adeel, a Creative Developer, Visual Storyteller & Tech Educator from Bangladesh</h2>
 
 ###
 
@@ -15,14 +15,35 @@
 
 <div align="left">
   <p>
-    I build tools, tutorials, and branding assets that make tech feel fun, accessible, and alive. Whether it's scripting system fixes, designing neon-themed visuals, or crafting beginner-friendly guides, I love turning complexity into clarity. I'm currently launching <strong>Code Moft</strong> — a creative coding hub blending education, design, and community vibes.
+    I build tools, tutorials, and branding assets that make tech feel fun, accessible, and alive. Whether it's scripting system fixes, designing neon-themed visuals, or crafting beginner-friendly guides, I love turning complexity into clarity.
   </p>
   <p>
-    My workflow is optimized for mid-range hardware, and I thrive on making Linux (especially Zorin OS) fast, responsive, and beautiful. I also explore AI-powered CLI tools, React setups, and meme-driven UX to keep things playful and practical.
+    🚀 Currently launching <strong>Code Moft</strong> a creative coding hub blending education, design, and community vibes. Expect real coder aesthetics, meme-powered UX, and tutorials that speak your language.
   </p>
 </div>
 
 ###
+
+<h3 align="left">🧠 Featured Project: Code Moft</h3>
+
+<div align="center">
+  <img src="https://your-image-url.com/code-moft-banner.png" alt="Code Moft Banner" width="100%" />
+</div>
+
+<p align="center">
+  <em>Code Moft is where creative coding meets clarity. Tutorials, tools, and tech vibes — all in one place.</em>
+</p>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=your-video-id" target="_blank">
+    <img src="https://img.youtube.com/vi/your-video-id/0.jpg" alt="Code Moft Video" width="480" />
+    <p>🎬 Watch: React App Setup Tool — Fast, Clean, Beginner-Friendly</p>
+  </a>
+</div>
+
+###
+
+<h3 align="left">🛠️ Tech Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
@@ -31,14 +52,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
 </div>
 
 ###
+
+<h3 align="left">📫 Connect with Me</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/shahnawas.adeel/" target="_blank">
