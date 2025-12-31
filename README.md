@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=900&color=7F5AF0&center=true&vCenter=true&width=700&lines=Adeel+%7C+Creative+Developer;Linux+Tinkerer+%7C+React+Builder;Making+Tech+Feel+Creative+and+Intuitive" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Building-Tools-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Linux%20%7C%20React%20%7C%20Python-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tutorials-Video%20%26%20Docs-green?style=for-the-badge" />
-</p>
 
 ###
 
@@ -22,6 +17,13 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="12" />
 </div>
+
+
+  <p align="center">
+  <img src="https://img.shields.io/badge/Building-Tools-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Linux%20%7C%20React%20%7C%20Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tutorials-Video%20%26%20Docs-green?style=for-the-badge" />
+</p>
 
 ###
 
