@@ -33,6 +33,15 @@
 </p>
 
 <hr />
+<h2>📊 GitHub Stats</h2>
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com?user=mdadeel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+
+</div>
+
+<hr />
+
 
 <h2>🚧 Current Projects</h2>
 <ul>
@@ -54,14 +63,6 @@
 
 <hr />
 
-<h2>📊 GitHub Stats</h2>
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com?user=mdadeel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-
-</div>
-
-<hr />
 
 <h2>📫 Connect with Me</h2>
 <div align="center">
