@@ -14,21 +14,13 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,python,linux" height="60" alt="tech stack icons" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
 </div>
 
 ###
@@ -62,10 +54,9 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdadeel&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdadeel&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
+ 
   <img src="https://streak-stats.demolab.com?user=mdadeel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=mdadeel&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+
 </div>
 
 <hr />
