@@ -9,7 +9,21 @@
   <img src="https://img.shields.io/badge/Tutorials-Video%20%26%20Docs-green?style=for-the-badge" />
 </p>
 
----
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,python,linux" height="60" alt="tech stack icons" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+
+</div>
+
+###
 
 <h2>💡 About Me</h2>
 <p>
@@ -38,41 +52,36 @@
 
 <hr />
 
-<h2>🛠️ Tech Stack</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-</div>
-
-<hr />
-
-<h2>📊 GitHub Stats</h2>
+<h2>📊 GitHub Activity</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdadeel&show_icons=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdadeel&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=mdadeel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=mdadeel&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
 <hr />
 
 <h2>📫 Connect with Me</h2>
-<div align="left">
-  <a href="https://www.instagram.com/shahnawas.adeel/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
-  </a>
-  <a href="https://www.facebook.com/badshahnawas.adeel/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
-  </a>
+<div align="center">
   <a href="https://www.linkedin.com/in/shahnawasadee1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:shahnawasadeel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  <a href="https://www.instagram.com/shahnawas.adeel/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://github.com/mdadeel" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="mailto:shahnawasadeel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdadeel/mdadeel/main/github-contribution-grid-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdadeel/mdadeel/main/github-contribution-grid.svg">
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/mdadeel/mdadeel/main/github-contribution-grid.svg">
+</picture>
