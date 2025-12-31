@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="12" />
-
+  
 </div>
 
 ###
@@ -52,7 +52,7 @@
 
 <hr />
 
-<h2>📊 GitHub Activity</h2>
+<h2>📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdadeel&show_icons=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdadeel&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
@@ -80,8 +80,4 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdadeel/mdadeel/main/github-contribution-grid-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdadeel/mdadeel/main/github-contribution-grid.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/mdadeel/mdadeel/main/github-contribution-grid.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdadeel&theme=dracula&hide_border=false" />
