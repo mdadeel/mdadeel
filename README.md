@@ -128,12 +128,17 @@ const adeel = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdadeel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=mdadeel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdadeel&theme=radical&hide_border=true&background=0D1117&stroke=7F5AF0&ring=7F5AF0&fire=FF6B6B&currStreakLabel=7F5AF0)](https://github.com/mdadeel)
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdadeel&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&column=7" alt="GitHub Trophies" />
+  
+### 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdadeel&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/mdadeel)
+
 </div>
 
 ---
