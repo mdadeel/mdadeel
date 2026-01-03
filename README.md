@@ -82,12 +82,12 @@ This mindset lets me scale from simple UIs to complex applications without chaos
 ## 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdadeel&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdadeel&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdadeel&show_icons=true&theme=dracula&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdadeel&layout=compact&theme=dracula&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdadeel&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=mdadeel&theme=dracula&hide_border=true" height="150" />
 </p>
 
 ---
