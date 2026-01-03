@@ -127,10 +127,9 @@ const adeel = {
 
 ## 📈 GitHub Analytics
 
-
-
 <div align="center">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdadeel&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdadeel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=mdadeel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -141,22 +140,15 @@ const adeel = {
 
 ## 🎯 Current Focus
 
-```mermaid
-mindmap
-  root((Adeel))
-    Building
-      Code Moft Platform
-      Developer Tools
-      System Utilities
-    Learning
-      Advanced React
-      System Design
-      Cloud Services
-    Contributing
-      Open Source
-      Tech Communities
-      Documentation
-```
+<div align="center">
+
+| 🚀 Building | 📚 Learning | 🤝 Contributing |
+|------------|-------------|-----------------|
+| Code Moft Platform | Advanced React | Open Source Projects |
+| Developer Tools | System Design | Tech Communities |
+| System Utilities | Cloud Services | Documentation |
+
+</div>
 
 ---
 
@@ -189,9 +181,15 @@ mindmap
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Animation
 
-<img src="https://raw.githubusercontent.com/mdadeel/mdadeel/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+    <img alt="Contribution Animation" src="images/breakout-light.svg" />
+  </picture>
+</p>
 
 ---
 
