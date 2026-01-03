@@ -1,84 +1,119 @@
-<!-- Clean, GitHub-safe animated header -->
+<!-- Professional + recruiter-focused animated header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=900&color=7F5AF0&center=true&vCenter=true&width=700&lines=Adeel+%7C+Creative+Developer;Linux+Tinkerer+%7C+React+Builder;Making+Tech+Feel+Creative+and+Intuitive" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=800&color=7F5AF0&center=true&vCenter=true&width=780&lines=Shahnawas+Adeel+%7C+Frontend+Developer;React+%7C+JavaScript+%7C+UI+Engineering;Building+Clean%2C+Scalable%2C+User-Focused+Web+Apps" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Building-Tools-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Linux%20%7C%20React%20%7C%20Python-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tutorials-Video%20%26%20Docs-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Primary%20Stack-React%20%7C%20JavaScript%20%7C%20Tailwind-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-Projects%20%7C%20Freelance%20%7C%20Self--Driven-success?style=for-the-badge" />
 </p>
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,python,linux" height="60" alt="tech stack icons" />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-  
-</div>
+## 👋 About Me
 
-###
+I’m **Shahnawas Adeel**, a frontend-focused web developer who builds **responsive, performant, and maintainable interfaces** using modern JavaScript frameworks.
 
-<h2>💡 About Me</h2>
-<p>
-  I'm a developer who blends code with clarity. I build systems, scripts, and branding assets that make tech feel intuitive and expressive. Whether it's optimizing Linux for performance or designing meme-powered UX, I turn complexity into creative tools.
+I specialize in turning **designs into real, usable products** — not just pretty screens.  
+My strength lies in **clean component architecture, UI consistency, and developer-friendly codebases**.
+
+I don’t just “make things work.”  
+I make them **understandable, scalable, and production-ready**.
+
+---
+
+## 🛠 Tech Stack & Tools
+
+### Frontend
+- **JavaScript (ES6+)**
+- **React.js**
+- HTML5, CSS3
+- Tailwind CSS
+- Responsive & Mobile-First Design
+
+### Tools & Workflow
+- Git & GitHub
+- Linux-based development environment
+- npm / Vite
+- Component-driven development
+- Clean folder structures & reusable logic
+
+### Familiar With
+- TypeScript (working knowledge)
+- Next.js (basic)
+- Python (scripting & automation concepts)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,git,linux" height="55" />
 </p>
 
-<hr />
+---
 
-<h2>🚧 Current Projects</h2>
-<ul>
-  <li><strong>Code Moft</strong> – A creative coding hub for tutorials, branding, and community inspiration</li>
-  <li><strong>React App Setup Tool</strong> – Fast, clean scaffolding for beginners and pros</li>
-  <li><strong>Zorin OS Optimization</strong> – Speed tweaks, shell resets, and visual polish for mid-range hardware</li>
-  <li><strong>System Scripts</strong> – Automating swap, DNS, font rendering, and developer tool resets</li>
-</ul>
+## 🚀 What I Actually Build
 
-<hr />
+I focus on **real-world, recruiter-relevant projects**, including:
 
-<h2>🧠 Developer Focus</h2>
-<ul>
-  <li>Linux system administration & CLI tooling</li>
-  <li>React.js, Python, and modern frontend workflows</li>
-  <li>Neon aesthetics, real coder imagery, and playful UX</li>
-  <li>Beginner-friendly documentation and video tutorials</li>
-</ul>
+- ⚛️ **React-based web applications** with reusable components
+- 🛒 **E-commerce UI systems** (cart, product flow, layout structure)
+- 🧱 **Portfolio & landing pages** optimized for performance and clarity
+- 🧩 **Design-to-code implementations** from Figma / static HTML
+- 🧰 **Frontend tooling & starter setups** for faster development
 
-<hr />
+I care deeply about:
+- Readable code  
+- Predictable state flow  
+- UI consistency  
+- Performance on low-to-mid hardware  
 
-<h2>📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdadeel&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdadeel&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=mdadeel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=mdadeel&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
+---
 
-<hr />
+## 🧠 How I Think as a Developer
 
-<h2>📫 Connect with Me</h2>
-<div align="center">
+- I break features into **small, testable components**
+- I optimize for **clarity over cleverness**
+- I write code assuming **someone else will maintain it**
+- I value **learning fundamentals over chasing trends**
+
+This mindset lets me scale from simple UIs to complex applications without chaos.
+
+---
+
+## 📈 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdadeel&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdadeel&layout=compact&theme=dracula" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mdadeel&theme=dracula" height="150" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+I’m open to:
+- Internships
+- Junior frontend roles
+- Freelance projects
+- Collaborative learning opportunities
+
+<p align="center">
   <a href="https://www.linkedin.com/in/shahnawasadee1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.instagram.com/shahnawas.adeel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://github.com/mdadeel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
   <a href="mailto:shahnawasadeel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
-</div>
+  <a href="https://github.com/mdadeel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  </a>
+</p>
 
-###
+---
 
-<img src="https://github-readme-snake.vercel.app/api/?user=mdadeel&bg_color=0d1117&color=7F5AF0&line=7F5AF0&point=ffffff&hide_border=false" />
+<p align="center">
+  <em>“Good interfaces disappear. Bad ones explain themselves.”</em>
+</p>
