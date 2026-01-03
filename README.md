@@ -1,119 +1,204 @@
-<!-- Professional + recruiter-focused animated header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=800&color=7F5AF0&center=true&vCenter=true&width=780&lines=Shahnawas+Adeel+%7C+Frontend+Developer;React+%7C+JavaScript+%7C+UI+Engineering;Building+Clean%2C+Scalable%2C+User-Focused+Web+Apps" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Primary%20Stack-React%20%7C%20JavaScript%20%7C%20Tailwind-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-Projects%20%7C%20Freelance%20%7C%20Self--Driven-success?style=for-the-badge" />
-</p>
+<!-- Dynamic typing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Adeel+%7C+Full+Stack+Developer;Building+Creative+%26+Scalable+Solutions;Linux+Enthusiast+%7C+Open+Source+Contributor;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 
----
+<!-- Profile views counter -->
+<img src="https://komarev.com/ghpvc/?username=mdadeel&color=7F5AF0&style=flat-square&label=Profile+Views" alt="Profile views" />
 
-## 👋 About Me
-
-I’m **Shahnawas Adeel**, a frontend-focused web developer who builds **responsive, performant, and maintainable interfaces** using modern JavaScript frameworks.
-
-I specialize in turning **designs into real, usable products** — not just pretty screens.  
-My strength lies in **clean component architecture, UI consistency, and developer-friendly codebases**.
-
-I don’t just “make things work.”  
-I make them **understandable, scalable, and production-ready**.
+</div>
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🚀 About Me
 
-### Frontend
-- **JavaScript (ES6+)**
-- **React.js**
-- HTML5, CSS3
-- Tailwind CSS
-- Responsive & Mobile-First Design
+```typescript
+const adeel = {
+    role: "Full Stack Developer & Linux Enthusiast",
+    location: "Bangladesh 🇧🇩",
+    focus: ["Web Development", "System Optimization", "Open Source"],
+    currentlyWorking: "Code Moft - Developer Hub & Learning Platform",
+    learning: ["Advanced React Patterns", "System Architecture", "DevOps"],
+    askMeAbout: ["React", "Python", "Linux", "Web Performance"],
+    funFact: "I optimize code like I optimize my Linux setup - obsessively! 🐧"
+};
+```
 
-### Tools & Workflow
-- Git & GitHub
-- Linux-based development environment
-- npm / Vite
-- Component-driven development
-- Clean folder structures & reusable logic
+### 💼 What I Bring to the Table
 
-### Familiar With
-- TypeScript (working knowledge)
-- Next.js (basic)
-- Python (scripting & automation concepts)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,git,linux" height="55" />
-</p>
+- **🎯 Problem Solver**: Transform complex requirements into elegant, maintainable solutions
+- **⚡ Performance Focused**: Optimization is not optional - it's a lifestyle
+- **🛠️ Tool Builder**: Create developer tools that save hours of manual work
+- **📚 Knowledge Sharer**: Active in creating tutorials and documentation for the community
+- **🔄 Continuous Learner**: Always exploring new technologies and best practices
 
 ---
 
-## 🚀 What I Actually Build
+## 🛠️ Tech Stack & Tools
 
-I focus on **real-world, recruiter-relevant projects**, including:
+<div align="center">
 
-- ⚛️ **React-based web applications** with reusable components
-- 🛒 **E-commerce UI systems** (cart, product flow, layout structure)
-- 🧱 **Portfolio & landing pages** optimized for performance and clarity
-- 🧩 **Design-to-code implementations** from Figma / static HTML
-- 🧰 **Frontend tooling & starter setups** for faster development
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-I care deeply about:
-- Readable code  
-- Predictable state flow  
-- UI consistency  
-- Performance on low-to-mid hardware  
+### Frontend & Styling
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
----
+### Systems & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🧠 How I Think as a Developer
-
-- I break features into **small, testable components**
-- I optimize for **clarity over cleverness**
-- I write code assuming **someone else will maintain it**
-- I value **learning fundamentals over chasing trends**
-
-This mindset lets me scale from simple UIs to complex applications without chaos.
-
----
-
-## 📈 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdadeel&show_icons=true&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdadeel&layout=compact&theme=dracula&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdadeel&theme=dracula&hide_border=true" height="150" />
-</p>
+</div>
 
 ---
 
-## 📫 Let’s Connect
+## 🔥 Featured Projects
 
-I’m open to:
-- Internships
-- Junior frontend roles
-- Freelance projects
-- Collaborative learning opportunities
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahnawasadee1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  <a href="mailto:shahnawasadeel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
-  <a href="https://github.com/mdadeel" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎨 Code Moft</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-Web_Platform-blue?style=flat-square" />
+      </p>
+      <p align="center">
+        A creative coding hub featuring tutorials, branding assets, and community-driven content. Built to inspire and educate developers at all levels.
+      </p>
+      <p align="center">
+        <strong>Tech:</strong> React, Modern UI/UX, Community-First Design
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ React App Setup Tool</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-CLI_Tool-orange?style=flat-square" />
+      </p>
+      <p align="center">
+        Lightning-fast scaffolding tool that sets up production-ready React apps in seconds. Perfect for developers who value their time.
+      </p>
+      <p align="center">
+        <strong>Tech:</strong> Node.js, CLI, Automation Scripts
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🐧 Linux System Optimizer</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-System_Tools-red?style=flat-square" />
+      </p>
+      <p align="center">
+        Comprehensive optimization suite for Zorin OS and Ubuntu-based systems. Includes performance tweaks, UI enhancements, and developer environment configs.
+      </p>
+      <p align="center">
+        <strong>Tech:</strong> Bash, System Administration, Shell Scripting
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 Automation Scripts Collection</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Growing-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-Utilities-purple?style=flat-square" />
+      </p>
+      <p align="center">
+        Production-grade scripts for swap management, DNS optimization, font rendering, and development environment resets. Time-savers for daily workflows.
+      </p>
+      <p align="center">
+        <strong>Tech:</strong> Python, Bash, System Automation
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <em>“Good interfaces disappear. Bad ones explain themselves.”</em>
-</p>
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdadeel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdadeel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdadeel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdadeel&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdadeel&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+mindmap
+  root((Adeel))
+    Building
+      Code Moft Platform
+      Developer Tools
+      System Utilities
+    Learning
+      Advanced React
+      System Design
+      Cloud Services
+    Contributing
+      Open Source
+      Tech Communities
+      Documentation
+```
+
+---
+
+## 💡 My Development Philosophy
+
+> **"Code is poetry written for machines to execute and humans to understand"**
+
+- ✨ **Clean Code**: Write code that tells a story
+- 🎨 **User-Centric**: Beautiful UX is not optional
+- 🚀 **Performance First**: Fast is a feature
+- 📖 **Document Everything**: Future you will thank present you
+- 🤝 **Community Driven**: Share knowledge, grow together
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahnawasadee1/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdadeel)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shahnawas.adeel/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahnawasadeel@gmail.com)
+
+### 💬 Open to opportunities and collaborations!
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/mdadeel/mdadeel/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+---
+
+**⭐ From [mdadeel](https://github.com/mdadeel) | Built with 💜 and ☕**
+
+</div>
