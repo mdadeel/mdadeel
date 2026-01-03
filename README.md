@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=900&color=7F5AF0&center=true&vCenter=true&width=700&lines=Adeel+%7C+Creative+Developer;Linux+Tinkerer+%7C+React+Builder;Making+Tech+Feel+Creative+and+Intuitive" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-Tools-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Linux%20%7C%20React%20%7C%20Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tutorials-Video%20%26%20Docs-green?style=for-the-badge" />
+</p>
 
 ###
 
@@ -10,20 +15,15 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,react,python,linux" height="60" alt="tech stack icons" />
   <img width="12" />
 
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="12" />
+  
 </div>
-
-
-  <p align="center">
-  <img src="https://img.shields.io/badge/Building-Tools-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Linux%20%7C%20React%20%7C%20Python-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tutorials-Video%20%26%20Docs-green?style=for-the-badge" />
-</p>
 
 ###
 
@@ -33,15 +33,6 @@
 </p>
 
 <hr />
-<h2>📊 GitHub Stats</h2>
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com?user=mdadeel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-
-</div>
-
-<hr />
-
 
 <h2>🚧 Current Projects</h2>
 <ul>
@@ -63,6 +54,15 @@
 
 <hr />
 
+<h2>📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdadeel&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdadeel&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=mdadeel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=mdadeel&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+<hr />
 
 <h2>📫 Connect with Me</h2>
 <div align="center">
@@ -82,4 +82,4 @@
 
 ###
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdadeel&theme=dracula&hide_border=false" />
+<img src="https://github-readme-snake.vercel.app/api/?user=mdadeel&bg_color=0d1117&color=7F5AF0&line=7F5AF0&point=ffffff&hide_border=false" />
