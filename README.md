@@ -127,13 +127,9 @@ const adeel = {
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdadeel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdadeel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdadeel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdadeel&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
