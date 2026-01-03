@@ -14,7 +14,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,python,linux" height="60" alt="tech stack icons" />
   <img width="12" />
-
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
