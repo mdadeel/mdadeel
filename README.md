@@ -125,24 +125,6 @@ const adeel = {
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdadeel&theme=radical&hide_border=true&background=0D1117&stroke=7F5AF0&ring=7F5AF0&fire=FF6B6B&currStreakLabel=7F5AF0)](https://github.com/mdadeel)
-
-</div>
-
-<div align="center">
-  
-### 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdadeel&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/mdadeel)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
