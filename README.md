@@ -250,7 +250,7 @@ const adeel = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahnawasadee1/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdadeel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white)](https://mdadeel.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white)](https://mdadeel.me/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shahnawas.adeel/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahnawasadeel@gmail.com)
 
@@ -258,19 +258,9 @@ const adeel = {
 
 </div>
 
----
 
-<div align="center">
 
-### 🐍 Contribution Animation
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
-    <img alt="Contribution Animation" src="images/breakout-light.svg" />
-  </picture>
-</p>
 
 ---
 
