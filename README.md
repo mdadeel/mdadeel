@@ -28,11 +28,11 @@ const adeel = {
 
 ### 💼 What I Bring to the Table
 
-- **🎯 Problem Solver**: Transform complex requirements into elegant, maintainable solutions
-- **⚡ Performance Focused**: Optimization is not optional - it's a lifestyle
-- **🛠️ Tool Builder**: Create developer tools that save hours of manual work
-- **📚 Knowledge Sharer**: Active in creating tutorials and documentation for the community
-- **🔄 Continuous Learner**: Always exploring new technologies and best practices
+- **🎯 Problem Solver**: Transform complex requirements into elegant, maintainable solutions.
+- **⚡ Performance Focused**: Optimization is not optional - it's a lifestyle.
+- **🛠️ Tool Builder**: Create developer tools that save hours of manual work.
+- **📚 Knowledge Sharer**: Active in creating tutorials and documentation for the community.
+- **🔄 Continuous Learner**: Always exploring new technologies and best practices.
 
 ---
 
