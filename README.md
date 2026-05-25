@@ -106,7 +106,7 @@ const adeel = {
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabiulislam5334/CodeArena-TeamProject)
 &nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://codearena-9ymb.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://codearena-pink.vercel.app/)
 
 </div>
 
