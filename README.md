@@ -16,13 +16,14 @@
 
 ```typescript
 const adeel = {
-    role: "Full Stack Developer & Linux Enthusiast",
-    location: "Bangladesh 🇧🇩",
-    focus: ["Web Development", "System Optimization", "Open Source"],
-    currentlyWorking: "Code Moft - Developer Hub & Learning Platform",
-    learning: ["Advanced React Patterns", "System Architecture", "DevOps"],
-    askMeAbout: ["React", "Next.js", "Linux", "Web Performance", "Docker"],
-    funFact: "I optimize code like I optimize my Linux setup - obsessively! 🐧"
+  title:    "Frontend Developer",
+  location: "Chattogram, Bangladesh 🇧🇩",
+  stack:    ["React 19", "Next.js App Router", "TypeScript", "Tailwind CSS v4"],
+  animation: ["GSAP", "Framer Motion", "Three.js", "Lenis"],
+  backend:  ["Node.js", "Express", "MongoDB", "Socket.IO", "Firebase"],
+  focus:    "Performance-first UIs — LCP, CLS, INP, not just 'looks good in dev'",
+  openTo:   "Frontend roles where craft and engineering depth actually matter",
+  contact:  "shahnawasadeel@gmail.com",
 };
 ```
 
