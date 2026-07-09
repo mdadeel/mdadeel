@@ -117,108 +117,39 @@ const adeel = {
 
 ### 🗂️ More Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">👓 Metro Optics</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Type-E--Commerce-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-React+Firebase-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-      </p>
-      <p align="center">
-        A full-featured e-commerce platform for premium eyewear with prescription management, real-time inventory, and a role-based admin panel — all synced live via Firebase.
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> React 19, Firebase, Tailwind CSS, Vite, Radix UI, Zod
-      </p>
-      <p align="center">
-        <a href="https://github.com/mdadeel/metro-optics"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        &nbsp;
-        <a href="https://metro-optics.vercel.app"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ React App Setup Tool</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Type-CLI_Tool-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-      </p>
-      <p align="center">
-        Lightning-fast CLI that scaffolds production-ready React applications with best-practice folder structure, configs, and tooling — saving hours of setup on every new project.
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> Node.js, CLI, Automation Scripts
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌍 Import Export Hub</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Type-Trade_Platform-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-MERN+Firebase-blue?style=flat-square" />
-      </p>
-      <p align="center">
-        A global trade platform where users list products for export, browse international listings, and import items into their personal dashboard with real-time sync.
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> React 19, Node.js, Express, MongoDB, Firebase, Tailwind
-      </p>
-      <p align="center">
-        <a href="https://github.com/mdadeel/iehub-client"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎓 e-TuitionBD</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Type-SaaS_Platform-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-MERN+Stripe-success?style=flat-square" />
-      </p>
-      <p align="center">
-        A full-scale tuition management platform connecting students with qualified tutors across Bangladesh — covering postings, applications, tutor selection, payments, and admin moderation.
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> React 19, Node.js, Express, MongoDB, Firebase, Stripe, Tailwind, JWT
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧸 ToyTopia</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Type-Marketplace-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-React+Firebase-yellow?style=flat-square" />
-      </p>
-      <p align="center">
-        A premium marketplace for buying and selling used toys in Bangladesh. Explores real-world product flows — listings, profiles, favorites, and payment integration.
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> React, Firebase, Tailwind, DaisyUI, Framer Motion
-      </p>
-      <p align="center">
-        <a href="https://github.com/mdadeel/ToyTopia"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏥 Doctoria</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Type-Healthcare_App-teal?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-HTML+CSS+JS-lightblue?style=flat-square" />
-      </p>
-      <p align="center">
-        A healthcare web application exploring medical platform UI patterns and appointment-flow design. Forked and extended to experiment with patient/doctor interaction flows.
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> HTML, CSS, JavaScript
-      </p>
-      <p align="center">
-        <a href="https://github.com/mdadeel/Doctoria"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🎓 e-TuitionBD
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Type-EdTech_SaaS-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Multi--Tenant-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+A production-focused EdTech marketplace that connects students, tutors, parents, and educational organizations on a single platform. Built with scalable multi-tenant architecture, role-based permissions, secure payments, tuition lifecycle management, community features, and AI-powered workflows.
+</p>
+
+<p align="center">
+
+| Feature | Details |
+|---------|---------|
+| 🎓 Tutor Marketplace | Search, filtering, applications, hiring workflow |
+| 🏢 Organization Support | Coaching centers with multi-role management |
+| 🔐 RBAC | Super Admin, Admin, Student, Tutor, Organization roles |
+| 💳 Payment System | Secure payment flow with commission-ready architecture |
+| 👥 Community | Educational discussions, engagement, collaboration |
+| 🤖 AI Features | AI-assisted platform experiences and automation |
+| 📈 Admin Dashboard | Analytics, moderation, reporting and management |
+| ⚡ Scalable Backend | Designed using multi-tenant architecture and clean domain separation |
+
+<strong>Tech:</strong> React 19 • Node.js • Express • MongoDB • Firebase Auth • JWT • Stripe • Socket.IO • Redis • Tailwind CSS • Framer Motion
+</p>
+
+<p align="center">
+<a href="YOUR_GITHUB"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://e-tuitionhub.vercel.app"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white"/></a>
+</p>
 ---
 
 ## 🎯 Current Focus
