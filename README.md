@@ -115,8 +115,6 @@ const adeel = {
 
 ---
 
-### 🗂️ More Projects
-
 ### 🎓 e-TuitionBD
 
 <p align="center">
@@ -145,11 +143,14 @@ A production-focused EdTech marketplace that connects students, tutors, parents,
 <strong>Tech:</strong> React 19 • Node.js • Express • MongoDB • Firebase Auth • JWT • Stripe • Socket.IO • Redis • Tailwind CSS • Framer Motion
 </p>
 
-<p align="center">
-<a href="YOUR_GITHUB"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-&nbsp;
-<a href="https://e-tuitionhub.vercel.app"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white"/></a>
-</p>
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdadeel/etuitionhub-frontend)
+&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://e-tuitionhub.vercel.app/)
+
+</div>
+
 ---
 
 ## 🎯 Current Focus
