@@ -16,25 +16,37 @@
 
 ```typescript
 const adeel = {
-  title:    "Frontend Developer",
-  location: "Chattogram, Bangladesh 🇧🇩",
-  stack:    ["React 19", "Next.js App Router", "TypeScript", "Tailwind CSS v4"],
-  animation: ["GSAP", "Framer Motion", "Three.js", "Lenis"],
-  backend:  ["Node.js", "Express", "MongoDB", "Socket.IO", "Firebase"],
-  focus:    "Performance-first UIs — LCP, CLS, INP, not just 'looks good in dev'",
-  openTo:   "Frontend roles where craft and engineering depth actually matter",
-  contact:  "shahnawasadeel@gmail.com",
-};
+  role: "Full Stack Developer",
+  specialization: [
+    "Frontend Architecture",
+    "Scalable SaaS",
+    "Developer Experience",
+    "Performance Engineering"
+  ],
+
+  currentlyBuilding: [
+    "CodeArena",
+    "e-TuitionBD"
+  ],
+
+  interests: [
+    "System Design",
+    "Clean Architecture",
+    "Modern React",
+    "Automation"
+  ],
+
+  philosophy:
+    "I enjoy building products that solve real problems while paying close attention to architecture, maintainability, and user experience."
+}
 ```
 
-### 💼 What I Bring to the Table
-
-- **🎯 Problem Solver**: Transform complex requirements into elegant, maintainable solutions.
-- **⚡ Performance Focused**: Optimization is not optional - it's a lifestyle .
-- **🛠️ Tool Builder**: Create developer tools that save hours of manual work.
-- **📚 Knowledge Sharer**: Active in creating tutorials and documentation for the community.
-- **🔄 Continuous Learner**: Always exploring new technologies and best practices.
-
+## 💼 What I Bring 
+- 🏗️ Design scalable frontend architectures instead of simply building interfaces. 
+- 🚀 Build production-ready SaaS products with maintainability and long-term scalability in mind. 
+- 🔐 Enjoy solving complex engineering problems involving authentication, RBAC, payments, real-time systems, and multi-tenant architecture. 
+- 🛠️ Improve developer experience through reusable components, automation, and tooling. 
+- ⚡ Focus on performance, accessibility, and clean user experiences from the beginning. 
 ---
 
 ## 🛠️ Tech Stack & Tools
