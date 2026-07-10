@@ -48,7 +48,6 @@ const adeel = {
 <div align="center">
 
 ## ⚔️ CodeArena
-
 ### Full-Stack Online Judge & Competitive Programming Platform
 
 <img src="https://img.shields.io/badge/★_FLAGSHIP_PROJECT-7F5AF0?style=for-the-badge&labelColor=0a0c10" />
@@ -61,20 +60,26 @@ const adeel = {
 
 </div>
 
-> A **production-grade competitive programming platform** built from the ground up as a 6-person team project. Users can browse problems, write and submit code in a Monaco editor, and get instant verdicts — powered by a real Docker sandboxed execution engine.
+> A **production-grade competitive programming platform** built from the ground up. Users can browse problems, write and submit code in a Monaco editor, and get instant verdicts powered by an isolated sandboxed execution engine.
 
-| Feature | Details |
-|---|---|
-| 🧑‍⚖️ **Online Judge** | Submits code to isolated Docker containers, evaluates against test cases, returns 10 possible verdicts |
-| 🌐 **Multi-language** | C++, Python, Java, JavaScript — each with a dedicated executor Docker image |
-| 🏆 **Contests** | Timed competitions with participant registration, live leaderboards & penalty scoring |
-| 🔐 **Auth System** | Firebase + JWT dual-layer — HttpOnly cookie sessions protect against XSS |
-| 🤖 **AI Integration** | Google Gemini & Groq SDK for intelligent platform features |
-| ⚡ **Real-time** | Socket.IO + Redis adapter layer for live updates |
-| 🛡️ **Security** | Docker socket proxied through `tecnativa/docker-socket-proxy` — restricted to safe APIs only |
-| 📊 **Monitoring** | Prometheus-compatible metrics via `prom-client` |
+<details>
+<summary><b>🔍 Key Architectural & System Features</b></summary>
+<br/>
 
-**Stack:** `Next.js 16` · `React 19` · `Tailwind CSS v4` · `MongoDB` · `Redis` · `BullMQ` · `Docker + dockerode` · `Firebase Auth` · `JWT` · `Socket.IO` · `Monaco Editor` · `Three.js` · `Framer Motion` · `GSAP` · `Zod` · `SWR` · `Zustand`
+- 🧑‍⚖️ **Online Judge:** Submits code to isolated Docker containers, evaluates against test cases, and returns 10 possible verdicts.
+- 🌐 **Multi-language:** C++, Python, Java, and JavaScript — each running in a dedicated, secure executor Docker image.
+- 🏆 **Contest System:** Timed competitions with live leaderboards, participant registration, and penalty scoring.
+- 🔐 **Dual-Layer Auth:** Firebase + JWT authentication using HttpOnly cookie sessions to prevent XSS.
+- 🤖 **AI Integration:** Google Gemini & Groq SDK for intelligent platform features and problem generation.
+- ⚡ **Real-time Sync:** Socket.IO and Redis adapter layer for instant leaderboard and submission updates.
+- 🛡️ **Execution Security:** Docker socket proxied via `tecnativa/docker-socket-proxy` to restrict execution strictly to safe APIs.
+- 📊 **Telemetry:** Prometheus-compatible metrics collection using `prom-client`.
+</details>
+
+**🛠️ Tech Stack:**
+- **Frontend:** Next.js 16 • React 19 • Tailwind CSS v4 • Zustand • SWR • Framer Motion • GSAP • Monaco Editor
+- **Backend:** Node.js • Express • Redis • BullMQ • Docker (dockerode) • Socket.IO • Firebase Auth • JWT • Zod
+- **Database:** MongoDB
 
 <div align="center">
 
@@ -84,37 +89,41 @@ const adeel = {
 
 </div>
 
-
-
 ---
 
-### 🎓 e-TuitionBD
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Type-EdTech_SaaS-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Architecture-Multi--Tenant-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
-</p>
+## 🎓 e-TuitionBD
+### Multi-Tenant EdTech SaaS Marketplace
 
-<p align="center">
-A production-focused EdTech marketplace that connects students, tutors, parents, and educational organizations on a single platform. Built with scalable multi-tenant architecture, role-based permissions, secure payments, tuition lifecycle management, community features, and AI-powered workflows.
-</p>
+<img src="https://img.shields.io/badge/Type-EdTech_SaaS-blue?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Architecture-Multi--Tenant-success?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 
-<p align="center">
+</div>
 
-| Feature | Details |
-|---------|---------|
-| 🎓 Tutor Marketplace | Search, filtering, applications, hiring workflow |
-| 🏢 Organization Support | Coaching centers with multi-role management |
-| 🔐 RBAC | Super Admin, Admin, Student, Tutor, Organization roles |
-| 💳 Payment System | Secure payment flow with commission-ready architecture |
-| 👥 Community | Educational discussions, engagement, collaboration |
-| 🤖 AI Features | AI-assisted platform experiences and automation |
-| 📈 Admin Dashboard | Analytics, moderation, reporting and management |
-| ⚡ Scalable Backend | Designed using multi-tenant architecture and clean domain separation |
+> A **production-focused EdTech marketplace** connecting students, tutors, parents, and educational organizations on a single platform. Features a scalable multi-tenant architecture and intuitive workflow pipelines.
 
-<strong>Tech:</strong> React 19 • Node.js • Express • MongoDB • Firebase Auth • JWT • Stripe • Socket.IO • Redis • Tailwind CSS • Framer Motion
-</p>
+<details>
+<summary><b>🔍 Key Architectural & System Features</b></summary>
+<br/>
+
+- 🎓 **Tutor Marketplace:** Advanced searching, filtering, and application pipelines with a hiring workflow.
+- 🏢 **Organization Hub:** Custom panels for coaching centers featuring multi-role management.
+- 🔐 **Granular RBAC:** Distinct dashboards for Super Admins, Admins, Students, Tutors, and Organizations.
+- 💳 **Escrow Payments:** Secure transaction flow with commission-ready payment split architecture.
+- 👥 **Community Space:** Forums for educational discussions, resource sharing, and engagement.
+- 🤖 **AI Automation:** AI-assisted matching workflows and automated platform experiences.
+- 📈 **Admin Analytics:** Full analytics suites, user moderation systems, and reporting features.
+- ⚡ **Domain Isolation:** Designed with clean domain separation and multi-tenant database isolation.
+</details>
+
+**🛠️ Tech Stack:**
+- **Frontend:** React 19 • Tailwind CSS • Framer Motion • Socket.IO Client
+- **Backend:** Node.js • Express • Redis • Socket.IO • Firebase Auth • JWT • Stripe
+- **Database:** MongoDB
 
 <div align="center">
 
