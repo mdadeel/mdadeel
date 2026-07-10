@@ -43,23 +43,86 @@ const adeel = {
 
 ## 🔥 Featured Projects
 
-### ⚔️ CodeArena
-**Full-Stack Online Judge & Competitive Programming Platform**  
-A production-grade platform with a Docker-sandboxed execution engine, real-time leaderboards, and AI integrations.  
-*Stack: Next.js, React, Tailwind, MongoDB, Redis, Docker, Firebase Auth, Socket.IO, Monaco Editor*  
+<!--  ★  FLAGSHIP  ★  -->
 
-[![View Repository](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rabiulislam5334/CodeArena-TeamProject)
-[![Live Demo](https://img.shields.io/badge/Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://codearena-pink.vercel.app/)
+<div align="center">
 
-<br/>
+## ⚔️ CodeArena
+
+### Full-Stack Online Judge & Competitive Programming Platform
+
+<img src="https://img.shields.io/badge/★_FLAGSHIP_PROJECT-7F5AF0?style=for-the-badge&labelColor=0a0c10" />
+&nbsp;
+<img src="https://img.shields.io/badge/Type-Online_Judge-blueviolet?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Team_Project-6_Members-success?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" />
+
+</div>
+
+> A **production-grade competitive programming platform** built from the ground up as a 6-person team project. Users can browse problems, write and submit code in a Monaco editor, and get instant verdicts — powered by a real Docker sandboxed execution engine.
+
+| Feature | Details |
+|---|---|
+| 🧑‍⚖️ **Online Judge** | Submits code to isolated Docker containers, evaluates against test cases, returns 10 possible verdicts |
+| 🌐 **Multi-language** | C++, Python, Java, JavaScript — each with a dedicated executor Docker image |
+| 🏆 **Contests** | Timed competitions with participant registration, live leaderboards & penalty scoring |
+| 🔐 **Auth System** | Firebase + JWT dual-layer — HttpOnly cookie sessions protect against XSS |
+| 🤖 **AI Integration** | Google Gemini & Groq SDK for intelligent platform features |
+| ⚡ **Real-time** | Socket.IO + Redis adapter layer for live updates |
+| 🛡️ **Security** | Docker socket proxied through `tecnativa/docker-socket-proxy` — restricted to safe APIs only |
+| 📊 **Monitoring** | Prometheus-compatible metrics via `prom-client` |
+
+**Stack:** `Next.js 16` · `React 19` · `Tailwind CSS v4` · `MongoDB` · `Redis` · `BullMQ` · `Docker + dockerode` · `Firebase Auth` · `JWT` · `Socket.IO` · `Monaco Editor` · `Three.js` · `Framer Motion` · `GSAP` · `Zod` · `SWR` · `Zustand`
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabiulislam5334/CodeArena-TeamProject)
+&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://codearena-pink.vercel.app/)
+
+</div>
+
+
+
+---
 
 ### 🎓 e-TuitionBD
-**Multi-Tenant EdTech SaaS Marketplace**  
-Connects students, tutors, and organizations with role-based permissions, secure payments, and AI-powered workflows.  
-*Stack: React, Node.js, Express, MongoDB, Firebase Auth, Stripe, Socket.IO, Tailwind CSS*  
 
-[![View Repository](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mdadeel/etuitionhub-frontend)
-[![Live Demo](https://img.shields.io/badge/Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://e-tuitionhub.vercel.app/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Type-EdTech_SaaS-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Multi--Tenant-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+A production-focused EdTech marketplace that connects students, tutors, parents, and educational organizations on a single platform. Built with scalable multi-tenant architecture, role-based permissions, secure payments, tuition lifecycle management, community features, and AI-powered workflows.
+</p>
+
+<p align="center">
+
+| Feature | Details |
+|---------|---------|
+| 🎓 Tutor Marketplace | Search, filtering, applications, hiring workflow |
+| 🏢 Organization Support | Coaching centers with multi-role management |
+| 🔐 RBAC | Super Admin, Admin, Student, Tutor, Organization roles |
+| 💳 Payment System | Secure payment flow with commission-ready architecture |
+| 👥 Community | Educational discussions, engagement, collaboration |
+| 🤖 AI Features | AI-assisted platform experiences and automation |
+| 📈 Admin Dashboard | Analytics, moderation, reporting and management |
+| ⚡ Scalable Backend | Designed using multi-tenant architecture and clean domain separation |
+
+<strong>Tech:</strong> React 19 • Node.js • Express • MongoDB • Firebase Auth • JWT • Stripe • Socket.IO • Redis • Tailwind CSS • Framer Motion
+</p>
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdadeel/etuitionhub-frontend)
+&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://e-tuitionhub.vercel.app/)
+
+</div>
 
 ---
 
