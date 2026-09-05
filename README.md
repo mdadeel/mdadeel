@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="https://mdadeel.me/">Portfolio</a> •
+  <a href="https://mdadeel.me/">Portfolio.</a> •
   <a href="https://www.linkedin.com/in/shahnawasadee1/">LinkedIn</a> •
   <a href="mailto:shahnawasadeel@gmail.com">Email</a>
 </p>
