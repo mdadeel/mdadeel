@@ -1,11 +1,13 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=200&section=header&text=Shahnawas%20Adeel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header"/>
+</div>
 
-<img src="images/hero.png" alt="Hero Image" width="100%" />
+<div align="center">
+  <a href="https://github.com/mdadeel"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=7F5AF0&center=true&vCenter=true&width=680&lines=Full+Stack+Developer;Building+Arbor+%E2%80%A2+CodeArena+%E2%80%A2+Inventra;Scalable+Systems%2C+Polished+UX" alt="Typing animation"/></a>
+</div>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mdadeel&color=7F5AF0&style=flat-square&label=Profile+Views" alt="Profile views" />
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdadeel&color=7F5AF0&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
 
 <p align="center">
@@ -23,8 +25,8 @@ const adeel = {
   role: "Full Stack Developer",
 
   building: [
+    "Arbor",
     "CodeArena",
-    "e-TuitionBD",
     "Inventra Technologies"
   ],
 
@@ -79,21 +81,9 @@ const adeel = {
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-### 🔧 DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
+  <img src="https://img.shields.io/badge/Redis-DC382D?s
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -110,6 +100,35 @@ const adeel = {
 ---
 
 ## 🔥 Featured Projects
+
+### 🌳 Arbor
+#### Developer Portal & Codebase Intelligence Platform
+
+<div align="center">
+  <img src="images/arbor.png" alt="Arbor Screenshot" width="85%" style="border-radius: 8px;" />
+</div>
+
+<br/>
+
+> The developer portal that understands your codebase. Connect a GitHub repo and get a full architectural audit in ~30 seconds — no YAML, no AI, no configuration.
+
+**Highlights**
+- 🔌 Connect any GitHub repo — full architectural audit in ~30 seconds
+- 🗺️ Interactive architecture maps (React Flow) + metrics dashboards (Recharts)
+- ⚙️ GitHub OAuth sign-in, background analysis via BullMQ + Redis
+- 🗄️ PostgreSQL + Prisma with strict TypeScript throughout
+
+**🛠️ Tech Stack:** Next.js 14 (App Router) • TypeScript • tRPC • PostgreSQL + Prisma • NextAuth.js • BullMQ • Redis • React Flow • Recharts
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdadeel/Arbor)
+&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://arborgit.vercel.app/)
+
+</div>
+
+---
 
 ### ⚔️ CodeArena
 #### Full-Stack Online Judge & Competitive Programming Platform
@@ -128,50 +147,9 @@ const adeel = {
 - 🤖 AI assistant & smart problem generation (Gemini/Groq)
 - 📈 Prometheus telemetry for live platform monitoring
 
-**🛠️ Tech Stack:** Next.js 16 • React 19 • Tailwind CSS v4 • Node.js • Express • Redis • BullMQ • Docker • Socket.IO • Firebase Auth • MongoDB
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabiulislam5334/CodeArena-TeamProject)
-&nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://codearena-pink.vercel.app/)
-
-</div>
-
----
-
-### 🎓 e-TuitionBD
-#### Multi-Tenant EdTech SaaS Marketplace
-
-<div align="center">
-  <img src="images/e-tuition-hub.png" alt="e-TuitionBD Screenshot" width="85%" style="border-radius: 8px;" />
-</div>
-
-<br/>
-
-> A **production-focused EdTech marketplace** connecting students, tutors, parents, and organizations — built on a scalable multi-tenant architecture.
-
-**Highlights**
-- 🏢 Multi-tenant architecture with isolated data namespaces
-- 🔑 Granular RBAC dashboards for Admin, Student, Tutor & Org
-- 💳 Stripe split-commission escrow payments
-- 🤖 AI tutor matching + end-to-end hiring pipeline
-
-**🛠️ Tech Stack:** React 19 • Tailwind CSS • Node.js • Express • Redis • Socket.IO • Firebase Auth • Stripe • MongoDB
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdadeel/etuitionhub-frontend)
-&nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://e-tuitionhub.vercel.app/)
-
-</div>
-
----
-
 ## 📬 Let's Connect!
 
-**Open to freelance/client work and collaborations** — building [Inventra Technologies](https://inventra.tech), CodeArena & e-TuitionBD.
+**Open to freelance/client work and collaborations** — building Inventra Technologies, Arbor & CodeArena.
 
 <div align="center">
 
@@ -190,3 +168,27 @@ Thanks for visiting!
 If you're interested in scalable frontend applications,
 SaaS architecture, or developer tooling,
 feel free to reach out.
+**🛠️ Tech Stack:** Next.js 16 • React 19 • Tailwind CSS v4 • Node.js • Express • Redis • BullMQ • Docker • Socket.IO • Firebase Auth • MongoDB
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabiulislam5334/CodeArena-TeamProject)
+&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://codearena-pink.vercel.app/)
+
+</div>
+
+---
+tyle=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+### 🔧 DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
