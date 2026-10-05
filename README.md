@@ -83,7 +83,20 @@ const adeel = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?s
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+### 🔧 DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -147,6 +160,18 @@ const adeel = {
 - 💳 Stripe split-commission escrow payments
 - 🤖 AI tutor matching + end-to-end hiring pipeline
 
+**🛠️ Tech Stack:** React 19 • Tailwind CSS • Node.js • Express • Redis • Socket.IO • Firebase Auth • Stripe • MongoDB
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdadeel/etuitionhub-frontend)
+&nbsp;&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://e-tuitionhub.vercel.app/)
+
+</div>
+
+---
+
 ## 📬 Let's Connect!
 
 **Open to freelance/client work and collaborations** — building Inventra Technologies, Arbor & e-TuitionBD.
@@ -168,27 +193,3 @@ Thanks for visiting!
 If you're interested in scalable frontend applications,
 SaaS architecture, or developer tooling,
 feel free to reach out.
-**🛠️ Tech Stack:** React 19 • Tailwind CSS • Node.js • Express • Redis • Socket.IO • Firebase Auth • Stripe • MongoDB
-
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdadeel/etuitionhub-frontend)
-&nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://e-tuitionhub.vercel.app/)
-
-</div>
-
----
-tyle=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-### 🔧 DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
