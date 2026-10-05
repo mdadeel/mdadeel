@@ -14,15 +14,6 @@
   <a href="mailto:shahnawasadeel@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -33,7 +24,8 @@ const adeel = {
 
   building: [
     "CodeArena",
-    "e-TuitionBD"
+    "e-TuitionBD",
+    "Inventra Technologies"
   ],
 
   interests: [
@@ -47,6 +39,11 @@ const adeel = {
     "System Design",
     "Cloud Infrastructure",
     "AI Engineering"
+  ],
+
+  openTo: [
+    "Freelance / Client Work",
+    "Collaborations"
   ],
 
   philosophy:
@@ -97,6 +94,21 @@ const adeel = {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mdadeel&show_icons=true&theme=github_dark&title_color=7F5AF0&icon_color=7F5AF0" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdadeel&layout=compact&theme=github_dark&title_color=7F5AF0" alt="Top Languages" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mdadeel&theme=github-dark&ring=7F5AF0&fire=7F5AF0&currStreakLabel=7F5AF0" alt="Contribution Streak" width="60%" />
+
+</div>
+
+---
+
 ## 🔥 Featured Projects
 
 ### ⚔️ CodeArena
@@ -108,23 +120,15 @@ const adeel = {
 
 <br/>
 
-> A **production-grade competitive programming platform** built from the ground up. Users can browse problems, write and submit code in a Monaco editor, and get instant verdicts powered by an isolated sandboxed execution engine.
+> A **production-grade competitive programming platform** built from the ground up — Monaco editor, instant verdicts, and secure sandboxed code execution.
 
-#### System Features
+**Highlights**
+- 🔒 Isolated Docker sandbox execution of user submissions
+- ⚡ Real-time submissions, leaderboards & contest rooms (Socket.IO + Redis + BullMQ)
+- 🤖 AI assistant & smart problem generation (Gemini/Groq)
+- 📈 Prometheus telemetry for live platform monitoring
 
-| System / Feature | CodeArena Support |
-| :--- | :--- |
-| **Docker Sandbox** | ✅ Isolated execution of user submissions in secure Docker containers |
-| **Real-time Sync** | ✅ Submissions, leaderboard, and contest room sync via Socket.IO & Redis |
-| **Contest System** | ✅ Timed competitive coding contests with automatic penalty scoring |
-| **AI Integration** | ✅ Interactive AI assistant and smart problem generation using Gemini/Groq |
-| **Secured Access** | ✅ Auth with Firebase & HTTPOnly cookie sessions + Docker Socket proxy |
-| **Telemetry** | ✅ Live platform metric scraping and monitoring using Prometheus |
-
-**🛠️ Tech Stack:**
-- **Frontend:** Next.js 16 • React 19 • Tailwind CSS v4 • Zustand • SWR • Monaco Editor • Framer Motion • GSAP
-- **Backend:** Node.js • Express • Redis • BullMQ • Docker (dockerode) • Socket.IO • Firebase Auth • JWT
-- **Database:** MongoDB
+**🛠️ Tech Stack:** Next.js 16 • React 19 • Tailwind CSS v4 • Node.js • Express • Redis • BullMQ • Docker • Socket.IO • Firebase Auth • MongoDB
 
 <div align="center">
 
@@ -145,23 +149,15 @@ const adeel = {
 
 <br/>
 
-> A **production-focused EdTech marketplace** connecting students, tutors, parents, and educational organizations on a single platform. Features a scalable multi-tenant architecture and intuitive workflow pipelines.
+> A **production-focused EdTech marketplace** connecting students, tutors, parents, and organizations — built on a scalable multi-tenant architecture.
 
-#### System Features
+**Highlights**
+- 🏢 Multi-tenant architecture with isolated data namespaces
+- 🔑 Granular RBAC dashboards for Admin, Student, Tutor & Org
+- 💳 Stripe split-commission escrow payments
+- 🤖 AI tutor matching + end-to-end hiring pipeline
 
-| System / Feature | e-TuitionBD Support |
-| :--- | :--- |
-| **Tenant Isolation** | ✅ Scalable multi-tenant architecture with isolated database namespaces |
-| **Hiring Pipeline** | ✅ End-to-end tutor discovery, application, booking, and hiring workflow |
-| **Granular RBAC** | ✅ Dedicated dashboards and permissions for Admin, Student, Tutor, and Org |
-| **Escrow Payments** | ✅ Split commission payment infrastructure integrated securely with Stripe |
-| **AI Matching** | ✅ Automated matches between students and ideal tutors using AI algorithms |
-| **Community Space** | ✅ Discussion forums, educational resource sharing, and real-time messaging |
-
-**🛠️ Tech Stack:**
-- **Frontend:** React 19 • Tailwind CSS • Framer Motion • Socket.IO Client
-- **Backend:** Node.js • Express • Redis • Socket.IO • Firebase Auth • JWT • Stripe
-- **Database:** MongoDB
+**🛠️ Tech Stack:** React 19 • Tailwind CSS • Node.js • Express • Redis • Socket.IO • Firebase Auth • Stripe • MongoDB
 
 <div align="center">
 
@@ -173,20 +169,9 @@ const adeel = {
 
 ---
 
-## 🚀 Currently Working On
-
-**🚀 CodeArena**  
-Competitive programming platform with secure Docker-based execution.
-
-**🎓 e-TuitionBD**  
-Multi-tenant EdTech marketplace focused on scalable architecture.
-
-**📚 Learning**  
-System Design, Cloud Infrastructure, AI Engineering.
-
----
-
 ## 📬 Let's Connect!
+
+**Open to freelance/client work and collaborations** — building [Inventra Technologies](https://inventra.tech), CodeArena & e-TuitionBD.
 
 <div align="center">
 
