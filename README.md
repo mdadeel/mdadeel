@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/mdadeel"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=7F5AF0&center=true&vCenter=true&width=680&lines=Full+Stack+Developer;Building+Arbor+%E2%80%A2+CodeArena+%E2%80%A2+Inventra;Scalable+Systems%2C+Polished+UX" alt="Typing animation"/></a>
+  <a href="https://github.com/mdadeel"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=7F5AF0&center=true&vCenter=true&width=680&lines=Full+Stack+Developer;Building+Arbor+%E2%80%A2+e-TuitionBD+%E2%80%A2+Inventra;Scalable+Systems%2C+Polished+UX" alt="Typing animation"/></a>
 </div>
 
 <div align="center">
