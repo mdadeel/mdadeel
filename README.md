@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdadeel&color=7F5AF0&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mdadeel.mdadeel" alt="Profile views"/>
 </div>
 
 <p align="center">
@@ -26,7 +26,7 @@ const adeel = {
 
   building: [
     "Arbor",
-    "CodeArena",
+    "e-TuitionBD",
     "Inventra Technologies"
   ],
 
@@ -130,26 +130,26 @@ const adeel = {
 
 ---
 
-### ⚔️ CodeArena
-#### Full-Stack Online Judge & Competitive Programming Platform
+### 🎓 e-TuitionBD
+#### Multi-Tenant EdTech SaaS Marketplace
 
 <div align="center">
-  <img src="images/codearena.png" alt="CodeArena Screenshot" width="85%" style="border-radius: 8px;" />
+  <img src="images/e-tuition-hub.png" alt="e-TuitionBD Screenshot" width="85%" style="border-radius: 8px;" />
 </div>
 
 <br/>
 
-> A **production-grade competitive programming platform** built from the ground up — Monaco editor, instant verdicts, and secure sandboxed code execution.
+> A **production-focused EdTech marketplace** connecting students, tutors, parents, and organizations — built on a scalable multi-tenant architecture.
 
 **Highlights**
-- 🔒 Isolated Docker sandbox execution of user submissions
-- ⚡ Real-time submissions, leaderboards & contest rooms (Socket.IO + Redis + BullMQ)
-- 🤖 AI assistant & smart problem generation (Gemini/Groq)
-- 📈 Prometheus telemetry for live platform monitoring
+- 🏢 Multi-tenant architecture with isolated data namespaces
+- 🔑 Granular RBAC dashboards for Admin, Student, Tutor & Org
+- 💳 Stripe split-commission escrow payments
+- 🤖 AI tutor matching + end-to-end hiring pipeline
 
 ## 📬 Let's Connect!
 
-**Open to freelance/client work and collaborations** — building Inventra Technologies, Arbor & CodeArena.
+**Open to freelance/client work and collaborations** — building Inventra Technologies, Arbor & e-TuitionBD.
 
 <div align="center">
 
@@ -168,13 +168,13 @@ Thanks for visiting!
 If you're interested in scalable frontend applications,
 SaaS architecture, or developer tooling,
 feel free to reach out.
-**🛠️ Tech Stack:** Next.js 16 • React 19 • Tailwind CSS v4 • Node.js • Express • Redis • BullMQ • Docker • Socket.IO • Firebase Auth • MongoDB
+**🛠️ Tech Stack:** React 19 • Tailwind CSS • Node.js • Express • Redis • Socket.IO • Firebase Auth • Stripe • MongoDB
 
 <div align="center">
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabiulislam5334/CodeArena-TeamProject)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdadeel/etuitionhub-frontend)
 &nbsp;&nbsp;
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://codearena-pink.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://e-tuitionhub.vercel.app/)
 
 </div>
 
