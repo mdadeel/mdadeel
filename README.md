@@ -174,6 +174,7 @@ const adeel = {
 
 ## 📬 Let's Connect!
 
+
 **Open to freelance/client work and collaborations** — building Inventra Technologies, Arbor & e-TuitionBD.
 
 <div align="center">
