@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=200&section=header&text=Shahnawas%20Adeel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header"/>
 </div>
 
+
 <div align="center">
   <a href="https://github.com/mdadeel"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=7F5AF0&center=true&vCenter=true&width=680&lines=Full+Stack+Developer;Building+Arbor+%E2%80%A2+e-TuitionBD+%E2%80%A2+Inventra;Scalable+Systems%2C+Polished+UX" alt="Typing animation"/></a>
 </div>
