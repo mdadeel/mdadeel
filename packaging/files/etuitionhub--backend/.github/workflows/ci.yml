@@ -1,0 +1,52 @@
+name: CI
+
+# NOTE — replace the placeholder steps below with this repo's real scripts
+# (`npm run lint`, `npm test`, `npm run build`) once they are confirmed.
+# Until then this workflow runs only checks that cannot produce a false pass:
+# dependencies install, every source file parses, and tests run *if* they exist.
+# Do not add the README badge until a real test suite is green here.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    name: Install, parse and test
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    env:
+      NODE_ENV: test
+      # Placeholders only. Provide real values through repository secrets if a
+      # step needs them; never commit credentials.
+      MONGODB_URI: mongodb://127.0.0.1:27017/etuition_ci
+      PORT: '5000'
+      CLIENT_URL: http://localhost:5173
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: |
+          if [ -f package-lock.json ]; then npm ci; else npm install; fi
+
+      - name: Syntax check every source file
+        run: |
+          set -e
+          find . -path ./node_modules -prune -o -name '*.js' -print0 \
+            | xargs -0 -n1 node --check
+
+      - name: Tests (skipped if no test script is defined)
+        run: npm test --if-present

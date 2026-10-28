@@ -1,0 +1,63 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    name: Syntax and boot checks
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    env:
+      NODE_ENV: test
+      PORT: 5000
+      MONGODB_URI: mongodb://127.0.0.1:27017/iehub_ci
+      CLIENT_URL: http://localhost:5173
+      ADMIN_EMAILS: ci@example.com
+      FIREBASE_API_KEY: ci-placeholder
+      FIREBASE_AUTH_DOMAIN: ci.example.com
+      FIREBASE_PROJECT_ID: ci-placeholder
+      FIREBASE_STORAGE_BUCKET: ci.example.com
+      FIREBASE_MESSAGING_SENDER_ID: '000000000000'
+      FIREBASE_APP_ID: ci-placeholder
+      FIREBASE_MEASUREMENT_ID: G-CI000000
+      ENABLE_DEV_SANDBOX: 'false'
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Syntax check every source file
+        run: |
+          set -e
+          find . -path ./node_modules -prune -o -name '*.js' -print0 \
+            | xargs -0 -n1 node --check
+
+      - name: Verify environment validation rejects a bad config
+        run: |
+          set -e
+          if MONGODB_URI="" node -e "import('./config/validateEnv.js').then(m => m.default())"; then
+            echo "validateEnv accepted a missing MONGODB_URI — it must fail fast"; exit 1
+          fi
+          echo "OK: invalid config rejected"
+
+      # No test suite exists yet. When tests are added, replace this comment with:
+      #   - name: Test
+      #     run: npm test
+      # Until then this workflow proves the code parses and the config guard works —
+      # which is honest, whereas a fake green "test" step is not.

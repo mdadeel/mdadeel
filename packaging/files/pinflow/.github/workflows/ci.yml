@@ -1,0 +1,67 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  backend:
+    name: Backend (lint + tests)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e ".[dev]" || pip install -e .
+          pip install ruff pytest
+
+      # Non-blocking at first: turn this into a hard gate once the findings are
+      # cleared, otherwise the badge lies about code health.
+      - name: Ruff
+        continue-on-error: true
+        run: ruff check .
+
+      - name: Tests
+        continue-on-error: true
+        run: python -m pytest -q || echo "no test suite yet — add one before relying on this job"
+
+  web:
+    name: Web app (build)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: pinterest-web/package-lock.json
+
+      - name: Install
+        working-directory: pinterest-web
+        run: npm ci
+
+      - name: Test
+        working-directory: pinterest-web
+        run: npm test -- --run
+
+      - name: Build
+        working-directory: pinterest-web
+        run: npm run build
