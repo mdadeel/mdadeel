@@ -126,25 +126,33 @@ class Header(Flowable):
         c.drawString(role_w + 15, y, "TypeScript, React, Node.js, PostgreSQL, Python")
 
         y = self.H - 41.0
-        c.setFont("Plex", 7.8)
         parts = [
             ("Chattogram, Bangladesh", None),
             ("+880 1533 970377", None),
             ("shahnawasadeel@gmail.com", "mailto:shahnawasadeel@gmail.com"),
-            ("mdadeel.me", "https://mdadeel.me/"),
+            ("mdadeel.vercel.app", "https://mdadeel.vercel.app/"),
             ("github.com/mdadeel", "https://github.com/mdadeel"),
             ("linkedin.com/in/shahnawasadee1", "https://www.linkedin.com/in/shahnawasadee1/"),
         ]
         sep = "  |  "
+        # shrink to fit the text column, never below 7.0pt
+        size = 7.8
+        while size > 7.0:
+            w_total = sum(c.stringWidth(t, "Plex", size) for t, _ in parts) + c.stringWidth(sep, "Plex", size) * (len(parts) - 1)
+            if w_total <= CONTENT_W:
+                break
+            size -= 0.1
         x = 0
         for text, url in parts:
             if x > 0:
                 c.setFillColor(HexColor("#9AA3B0"))
+                c.setFont("Plex", size)
                 c.drawString(x, y, sep)
-                x += c.stringWidth(sep, "Plex", 7.8)
+                x += c.stringWidth(sep, "Plex", size)
             c.setFillColor(LINK if url else MUTED)
+            c.setFont("Plex", size)
             c.drawString(x, y, text)
-            w = c.stringWidth(text, "Plex", 7.8)
+            w = c.stringWidth(text, "Plex", size)
             if url:
                 c.linkURL(url, (x, y - 1.8, x + w, y + 8.2), relative=0, thickness=0)
             x += w
@@ -241,6 +249,29 @@ story.append(
         S_SUMMARY,
     )
 )
+
+# ---- skills
+story.append(SectionHeading("Technical Skills"))
+skills = [
+    ("Languages", "TypeScript, JavaScript (ES2024), Python 3, SQL, Bash"),
+    ("Frontend", "React 19, Next.js (App Router), Vite, Tailwind CSS, Radix UI, TanStack Query, React Flow, Recharts"),
+    ("Backend", "Node.js, tRPC v11, Express, BullMQ, Socket.IO, NextAuth, Firebase Auth, Stripe, REST APIs"),
+    ("Data", "PostgreSQL 16, Prisma, MongoDB, Redis 7 (ioredis), schema design and migrations"),
+    ("Tooling", "Docker and Compose, Playwright, Vitest, pnpm workspaces, GitHub Actions, Vercel, Cloudflare Workers, Git"),
+    ("Systems", "Python 3, GTK 3, PyGObject, Debian packaging, AppImage, systemd, apt and flatpak"),
+    ("Spoken", "Bangla (native), English (professional), Hindi (conversational)"),
+]
+rows = [[Paragraph(f"<font name='Plex-Semi' color='#1B3B5F'>{k}</font>", st("k", fontSize=8.2, leading=10.4)),
+         Paragraph(v, st("v", fontSize=8.2, leading=10.4))] for k, v in skills]
+tbl = Table(rows, colWidths=[54, CONTENT_W - 54])
+tbl.setStyle(TableStyle([
+    ("VALIGN", (0, 0), (-1, -1), "TOP"),
+    ("LEFTPADDING", (0, 0), (-1, -1), 0),
+    ("RIGHTPADDING", (0, 0), (-1, -1), 0),
+    ("TOPPADDING", (0, 0), (-1, -1), 1.1),
+    ("BOTTOMPADDING", (0, 0), (-1, -1), 1.1),
+]))
+story.append(tbl)
 
 # ---- selected work
 story.append(SectionHeading("Selected Projects"))
@@ -344,33 +375,10 @@ story.append(bullet(
     "Own delivery end to end: scoping with the client, component architecture, responsive QA and post-launch fixes."
 ))
 
-# ---- skills
-story.append(SectionHeading("Technical Skills"))
-skills = [
-    ("Languages", "TypeScript, JavaScript (ES2024), Python 3, SQL, Bash"),
-    ("Frontend", "React 19, Next.js (App Router), Vite, Tailwind CSS, Radix UI, TanStack Query, React Flow, Recharts"),
-    ("Backend", "Node.js, tRPC v11, Express, BullMQ, Socket.IO, NextAuth, Firebase Auth, Stripe, REST APIs"),
-    ("Data", "PostgreSQL 16, Prisma, MongoDB, Redis 7 (ioredis), schema design and migrations"),
-    ("Tooling", "Docker and Compose, Playwright, Vitest, pnpm workspaces, GitHub Actions, Vercel, Cloudflare Workers, Git"),
-    ("Systems", "Python 3, GTK 3, PyGObject, Debian packaging, AppImage, systemd, apt and flatpak"),
-    ("Spoken", "Bangla (native), English (professional), Hindi (conversational)"),
-]
-rows = [[Paragraph(f"<font name='Plex-Semi' color='#1B3B5F'>{k}</font>", st("k", fontSize=8.2, leading=10.4)),
-         Paragraph(v, st("v", fontSize=8.2, leading=10.4))] for k, v in skills]
-tbl = Table(rows, colWidths=[54, CONTENT_W - 54])
-tbl.setStyle(TableStyle([
-    ("VALIGN", (0, 0), (-1, -1), "TOP"),
-    ("LEFTPADDING", (0, 0), (-1, -1), 0),
-    ("RIGHTPADDING", (0, 0), (-1, -1), 0),
-    ("TOPPADDING", (0, 0), (-1, -1), 1.1),
-    ("BOTTOMPADDING", (0, 0), (-1, -1), 1.1),
-]))
-story.append(tbl)
-
 # ---- education
 story.append(SectionHeading("Education and Training"))
 story.append(role("<font name='Plex-Bold'>MERN Stack Web Development</font> &nbsp;<font color='#525A66'>| Programming Hero</font>",
-                  "2025 - Present"))
+                  "2025 - 2026"))
 story.append(bullet(
     "Coursework in React, Node.js, Express and MongoDB; 500+ JavaScript, data structure and problem-solving "
     "exercises."
