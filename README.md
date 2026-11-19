@@ -1,4 +1,4 @@
-<h1 align="center">Shahnawas Adeel</h1>
+<h1 align="center">Shahnawas Adeel.</h1>
 
 <p align="center">
   <strong>Full-Stack Software Engineer — SaaS Architecture, Developer Tooling &amp; Design Systems</strong><br/>
