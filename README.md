@@ -14,6 +14,7 @@
 </div>
 
 <p align="center">
+  <a href="https://github.com/mdadeel/portfolio"><img src="https://img.shields.io/badge/Showcase-13_Projects-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Full project showcase — github.com/mdadeel/portfolio" /></a>&nbsp;
   <a href="https://mdadeel.me/"><img src="https://img.shields.io/badge/Portfolio-mdadeel.me-7F5AF0?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Shahnawas Adeel Portfolio — mdadeel.me" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/shahnawasadee1/"><img src="https://img.shields.io/badge/LinkedIn-Shahnawas_Adeel-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Shahnawas Adeel on LinkedIn" /></a>&nbsp;
   <a href="mailto:shahnawasadeel@gmail.com"><img src="https://img.shields.io/badge/Email-shahnawasadeel%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Shahnawas Adeel" /></a>
@@ -29,6 +30,7 @@
 - **Design Systems & Frontend Infrastructure:** Created **[easyui](https://github.com/mdadeel/easyui)**, a `pnpm` monorepo React component library (`@easyui/react`) and CSS custom-property token pipeline (`@easyui/tokens`) with runtime theming and accessibility tests.
 - **Linux Systems & Open Source:** Author of **[Preen](https://github.com/mdadeel/Preen)** (`v0.7.1`), an MIT-licensed Python 3 and GTK 3 desktop system utility for Debian and Ubuntu distributions.
 - **Multi-Tenant SaaS:** Engineered **[e-TuitionBD](https://e-tuitionhub.vercel.app/)**, a multi-role EdTech marketplace supporting real-time messaging, role-based dashboards, and escrow payment workflows.
+- **Marketplace & E-Commerce Builds:** Shipped **[Import Export Hub](https://iehub.vercel.app/)** (B2B commodity-trading SPA with cryptographic trade documents), **[AyashTech](https://ayash-tech.vercel.app/)**, **[Metro Optics](https://metro-optics.vercel.app/)**, and **[ToyTopia](https://github.com/mdadeel/ToyTopia)** — live storefronts and platforms with clean client/server splits.
 
 ---
 
@@ -75,6 +77,8 @@
 ---
 
 ## Engineering Portfolio Overview
+
+**[Browse the complete project showcase →](https://github.com/mdadeel/portfolio)** — all 13 projects organized as one product per client/server pair, with live demos, full tech stacks, engineering highlights, and an FAQ.
 
 | Project | Domain | Architecture & Key Engineering Highlights | Tech Stack | Links |
 | :--- | :--- | :--- | :--- | :--- |
